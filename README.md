@@ -5,6 +5,7 @@
 
  ### my projects
  - [ClassWorkCpp](https://github.com/rugliko/classWorkcpp) - классные работы по курсу С++
+ - [HomeWorkCpp](https://github.com/rugliko/HomeWorkCpp) - домашние работы по курсу С++
 
 
 
